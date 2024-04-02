@@ -1,3 +1,12 @@
+My custom configuration of DWM. Master branch is a clean pull of DWM version 6.5.
+'patched' branch contains my customized config.def.h and applied patches that I want.
+
+Updating DWM
+------------
+Merge updated DWM into master and then merge master into patched branch
+
+
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
